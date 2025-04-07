@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<Hotel>
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Hilton</Name>
+    <Phone>602-123-4567</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>101</Number>
+      <Street>Main St</Street>
+      <City>Phoenix</City>
+      <Zip>85001</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Marriott</Name>
+    <Phone>623-321-4567</Phone>
+    <Phone>855-999-1111</Phone>
+  </Hotel>
+  <Hotel>
+    <Name>Hyatt</Name>
+    <Phone>480-876-2345</Phone>
+    <Address NearestAirport="Scottsdale Airport">
+      <Number>777</Number>
+      <Street>Sunset Blvd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85250</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.5">
+    <Name>Holiday Inn</Name>
+    <Name>Duplicate Name</Name>
+    <Phone>928-567-7890</Phone>
+    <Address NearestAirport="Mesa Gateway">
+      <Number>300</Number>
+      <Street>Palm St</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85201</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Comfort Suites</Name>
+    <Phone>602-100-2000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>55</Number>
+      <Street>Cactus Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85032</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Best Western</Name>
+    <Phone>623-800-9000</Phone>
+    <Address NearestAirport="Phoenix Deer Valley">
+      <Number>12</Number>
+      <Street>Thunderbird Rd</Street>
+      <City>Glendale</City>
+      <State>AZ</State>
+      <Zip>85306</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>La Quinta</Name>
+    <Phone>480-333-4444</Phone>
+    <Phone>888-333-2222</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>420</Number>
+      <Street>Broadway Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.5">
+    <Name>Four Seasons</Name>
+    <Phone>928-222-1111</Phone>
+    <Address NearestAirport="Sedona Airport">
+      <Number>1</Number>
+      <Street>Luxury Ln</Street>
+      <City>Sedona</City>
+      <State>AZ</State>
+      <Zip>86336</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Red Roof Inn</Name>
+    <Phone>602-404-5050</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>300</Number>
+      <Street>Camelback Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85018</Zip>
+    </Address>
+  </Hotel>
+</Hotel>
